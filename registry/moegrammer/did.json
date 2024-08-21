@@ -1,23 +1,23 @@
 {
-  "id": "did:web:didpay.me:moegrammer",
+  "id": "did:web:venmo.website:moegrammer",
   "verificationMethod": [
     {
-      "id": "did:web:didpay.me:moegrammer#0",
+      "id": "did:web:venmo.website:moegrammer#0",
       "type": "JsonWebKey",
-      "controller": "did:web:didpay.me:moegrammer",
+      "controller": "did:web:venmo.website:moegrammer",
       "publicKeyJwk": {
         "kty": "OKP",
         "crv": "Ed25519",
-        "x": "wgXMwV896GCGy-DkiwpEcgoFc75GRagyAOB1ibn741U"
+        "x": "WQt5E_Cyj3ZfRZz5fJPteaaJQlUMfxF6vmlqvT0Uhx4"
       }
     }
   ],
   "service": [
     {
-      "id": "#yolo",
+      "id": "#0",
       "type": "MoneyAddress",
       "serviceEndpoint": [
-        "urn:btc:lnaddr:moegrammer@cash.app"
+        "urn:btc:addr:bc1q6af2lume9v4lryze6x3fjr4fphhc97qy6jgf7g"
       ]
     }
   ]

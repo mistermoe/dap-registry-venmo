@@ -1,11 +1,11 @@
 {
-  "id": "did:web:didpay.me",
+  "id": "did:web:venmo.website",
   "service": [
     {
       "id": "DAPRegistry",
       "type": "DAPRegistry",
       "serviceEndpoint": [
-        "https://didpay.me"
+        "https://venmo.website"
       ]
     }
   ]
