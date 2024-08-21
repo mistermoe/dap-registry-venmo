@@ -4,11 +4,11 @@ go 1.22.4
 
 require (
 	github.com/TBD54566975/dap-go v0.2.0
+	github.com/alecthomas/types v0.14.0
 	github.com/tbd54566975/web5-go v0.19.0
 )
 
 require (
-	github.com/alecthomas/types v0.14.0 // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.2.0 // indirect
 	github.com/gofrs/uuid/v5 v5.0.0 // indirect
 	github.com/gowebpki/jcs v1.0.1 // indirect

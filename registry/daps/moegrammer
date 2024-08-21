@@ -1,10 +1,10 @@
 {
-  "did": "did:web:didpay.me:moegrammer",
+  "did": "did:web:venmo.website:moegrammer",
   "proof": {
-    "id": "reg_01j13n944betnsesdve4ewc9c7",
+    "id": "reg_01j5vdpypzft5s5antbnavd590",
     "handle": "moegrammer",
-    "did": "did:web:didpay.me:moegrammer",
-    "domain": "didpay.me",
-    "signature": "eyJhbGciOiJFZERTQSIsImtpZCI6ImRpZDp3ZWI6ZGlkcGF5Lm1lOm1vZWdyYW1tZXIjMCJ9..jD38MMEGR4q9mtupJZ_kNEI3RoqKhhBh3fpdkRUskhLIm0Mr3-5Egm0XflSxkFxyby3Mq8DhL71QImojWJQZCw"
+    "did": "did:web:venmo.website:moegrammer",
+    "domain": "venmo.website",
+    "signature": "eyJhbGciOiJFZERTQSIsImtpZCI6ImRpZDp3ZWI6dmVubW8ud2Vic2l0ZTptb2VncmFtbWVyIzAifQ..6GoBbzWPwoTG44NdTmC-VHbl2C7Jigx-4juShug3oxoCCnIoUoFt-31wDQmoWryJ-qA3InyrdrjIpXg9LkOmBQ"
   }
 }
