@@ -1,0 +1,10 @@
+{
+  "did": "did:web:venmo.website:ethan",
+  "proof": {
+    "id": "reg_01j5vejfw1e0sbp7zm09r82jhg",
+    "handle": "ethan",
+    "did": "did:web:venmo.website:ethan",
+    "domain": "venmo.website",
+    "signature": "eyJhbGciOiJFZERTQSIsImtpZCI6ImRpZDp3ZWI6dmVubW8ud2Vic2l0ZTpldGhhbiMwIn0..UnW1ulojFPNCXAdc9O-k0PLjdSps3bdIlXdD42BXeqnBxDGi7U-7NKaTvSq9m8Dw_9rQYY5S2fIfDmWLDLW4DA"
+  }
+}

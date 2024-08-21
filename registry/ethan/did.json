@@ -1,0 +1,24 @@
+{
+  "id": "did:web:venmo.website:ethan",
+  "verificationMethod": [
+    {
+      "id": "did:web:venmo.website:ethan#0",
+      "type": "JsonWebKey",
+      "controller": "did:web:venmo.website:ethan",
+      "publicKeyJwk": {
+        "kty": "OKP",
+        "crv": "Ed25519",
+        "x": "zophMd2vbbBL_KPUA6Kb_MhqsyVP6xHOV_Zpt9sf3VQ"
+      }
+    }
+  ],
+  "service": [
+    {
+      "id": "#0",
+      "type": "MoneyAddress",
+      "serviceEndpoint": [
+        "urn:btc:addr:bc1q5r9nrutqf79u0zth2vf4e8y9gn45fv8vy8kdss"
+      ]
+    }
+  ]
+}
