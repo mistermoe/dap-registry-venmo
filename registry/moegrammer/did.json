@@ -19,6 +19,13 @@
       "serviceEndpoint": [
         "urn:btc:addr:bc1q6af2lume9v4lryze6x3fjr4fphhc97qy6jgf7g"
       ]
+    },
+    {
+      "id": "#1",
+      "type": "MoneyAddress",
+      "serviceEndpoint": [
+        "urn:usdc:sol:AJumGTinXwhryEY7Zom1B9dmBd5hgd12PCLVcd9kCXMU"
+      ]
     }
   ]
 }
